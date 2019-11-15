@@ -1,4 +1,4 @@
-package com.charles.geek;
+package com.charles.geek.algorithm;
 
 /**
  * Created with IDEA
