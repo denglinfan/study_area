@@ -15,6 +15,12 @@ public class RabinKarp {
         System.out.println(String.format("字符串[%s]在主串[%s]出现到起始位置为：%s",patternStr,coreStr,index));
     }
 
+    /**
+     * 简单的hash算法值匹配
+     * @param coreStr
+     * @param patternStr
+     * @return
+     */
     public static int simpleRK(String coreStr, String patternStr){
         int coreStrLength = coreStr.length();
         int patternStrLength = patternStr.length();
@@ -30,6 +36,9 @@ public class RabinKarp {
         return -1;
     }
 
+    /**
+     * 以下算法只适用于英文字符的匹配
+     */
     //TODO 如何保存这个超大的数字数组
     private static long[] constants = new long[26];
     static{
