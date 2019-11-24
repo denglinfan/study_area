@@ -1,4 +1,4 @@
-package com.charles.geek.algorithm;
+package com.charles.geek.algorithm.stringpattern;
 
 /**
  * @Description 高效的字符串匹配算法，匹配过程包含坏字符规则和好后缀规则

@@ -1,4 +1,4 @@
-package com.charles.geek.algorithm;
+package com.charles.geek.algorithm.stringpattern;
 
 /**
  * @Description 字符串单模式匹配--暴力匹配算法/朴素匹配算法

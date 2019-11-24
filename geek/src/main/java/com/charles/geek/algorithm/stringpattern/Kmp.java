@@ -1,4 +1,4 @@
-package com.charles.geek.algorithm;
+package com.charles.geek.algorithm.stringpattern;
 
 /**
  * @Description KMP字符串匹配算法

@@ -1,4 +1,4 @@
-package com.charles.geek.algorithm;
+package com.charles.geek.algorithm.stringpattern;
 
 /**
  * @Description Trie树数据结构主要是为了在前缀查询比较多的情况下，效率会比较快
