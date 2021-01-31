@@ -8,6 +8,6 @@ package com.charles.geek;
  **/
 public class Test {
 	public static void main(String[] args){
-		syste.out.println("test2");
+		syste.out.println("test3");
 	}
 }
